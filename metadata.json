@@ -1,0 +1,6 @@
+{
+  "name": "RIM Platform — CDF Aerodynamics & AI Engine",
+  "description": "Next-generation browser CDF workbench combining real-time Navier-Stokes flow, Fourier Neural Operators (FNO), 3D vector fields, and 4-stage aerodynamics pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
